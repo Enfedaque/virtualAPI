@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/Clientes"
+  },
+  "response": {
+    "status": 201,
+    "headers": {
+      "Content-type": "application/json"
+    },
+    "bodyFileName": "postClientes-OK.json"
+  }
+}

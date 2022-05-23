@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/empleados"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-type": "application/json"
+    },
+    "bodyFileName": "getEmpleados-KO.json"
+  }
+}
