@@ -1,13 +1,13 @@
 {
   "request": {
-    "method": "POST",
-    "url": "/Clientes"
+    "method": "PUT",
+    "url": "/Vehiculos/{id}"
   },
   "response": {
-    "status": 400,
+    "status": 500,
     "headers": {
       "Content-type": "application/json"
     },
-    "bodyFileName": "400-KO.json"
+    "bodyFileName": "500-KO.json"
   }
 }

@@ -1,7 +1,7 @@
 {
   "request": {
-    "method": "POST",
-    "url": "/Clientes"
+    "method": "GET",
+    "url": "/Clientes/{particular}/{presupuesto}/{nombreEmpresa}"
   },
   "response": {
     "status": 400,

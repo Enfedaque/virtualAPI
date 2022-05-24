@@ -1,0 +1,11 @@
+[
+  {
+    "vehiculosID": "Juan",
+    "fechaEntrada": "Fernandez",
+    "fechaSalida": "juan@gmail.es",
+    "matricula": "94589658",
+    "kilometros": "23-01-1987",
+    "antiguedad": true,
+    "unicoPropietario": "06-12-2019"
+  }
+]

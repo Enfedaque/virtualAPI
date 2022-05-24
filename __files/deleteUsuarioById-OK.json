@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "nombre": "Juan",
+  "apellido": "Fernandez",
+  "email": "juan@gmail.es",
+  "telefono": "94589658",
+  "fechaNac": "23-01-1987"
+}

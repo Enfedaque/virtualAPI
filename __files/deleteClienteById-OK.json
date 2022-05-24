@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "nombre": "Juan",
+  "apellido": "Fernandez",
+  "email": "juan@gmail.es",
+  "telefono": "94589658",
+  "fechaNac": "23-01-1987",
+  "particular": true,
+  "fechaAlta": "06-12-2019",
+  "presupuestoEnReparaciones": 1253.36,
+  "estatura": 1.69,
+  "empresa": true,
+  "nombreEmpresa": "Aceros Martines S.L",
+  "dni": "48547963F"
+}

@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/empleados"
+    "url": "/Vehiculos/{matricula}/{kilometros}/{antiguedad}"
   },
   "response": {
-    "status": 500,
+    "status": 404,
     "headers": {
       "Content-type": "application/json"
     },
-    "bodyFileName": "500-KO.json"
+    "bodyFileName": "404-KO.json"
   }
 }

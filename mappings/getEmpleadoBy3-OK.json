@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/empleados"
+    "url": "/Empleados/{puesto}/{departamento}/{salario}"
   },
   "response": {
-    "status": 500,
+    "status": 200,
     "headers": {
       "Content-type": "application/json"
     },
-    "bodyFileName": "500-KO.json"
+    "bodyFileName": "getBy3-OK.json"
   }
 }

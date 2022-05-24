@@ -1,13 +1,13 @@
 {
   "request": {
     "method": "GET",
-    "url": "/empleados"
+    "url": "/Empleados/{id}"
   },
   "response": {
-    "status": 500,
+    "status": 200,
     "headers": {
       "Content-type": "application/json"
     },
-    "bodyFileName": "500-KO.json"
+    "bodyFileName": "getEmpleadoById-OK.json"
   }
 }

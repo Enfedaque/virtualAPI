@@ -1,13 +1,13 @@
 {
   "request": {
-    "method": "GET",
-    "url": "/Empleados"
+    "method": "PUT",
+    "url": "/Clientes/{id}"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-type": "application/json"
     },
-    "bodyFileName": "getEmpleados-OK.json"
+    "bodyFileName": "putClienteById-OK.json"
   }
 }
