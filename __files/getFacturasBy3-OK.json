@@ -1,0 +1,10 @@
+[
+  {
+    "numFactura": 36,
+    "nombrePropietario": "Juan",
+    "precio": 1453.6,
+    "fechaFactura": "02-08-2008",
+    "idVehiculo": 4,
+    "empresa": false
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "DELETE",
+    "url": "/Facturas/{numFactura}"
+  },
+  "response": {
+    "status": 404,
+    "headers": {
+      "Content-type": "application/json"
+    },
+    "bodyFileName": "404-KO.json"
+  }
+}
