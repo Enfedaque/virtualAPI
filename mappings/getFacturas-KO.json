@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/Facturas"
+  },
+  "response": {
+    "status": 500,
+    "headers": {
+      "Content-type": "application/json"
+    },
+    "bodyFileName": "500-KO.json"
+  }
+}

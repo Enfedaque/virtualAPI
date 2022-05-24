@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "DELETE",
+    "url": "/Facturas/{numFactura}"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-type": "application/json"
+    },
+    "bodyFileName": "deleteFacturasById-OK.json"
+  }
+}

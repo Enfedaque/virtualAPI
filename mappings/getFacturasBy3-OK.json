@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/Facturas/{nombrePropietario}/{isEmpresa}/{precio}"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-type": "application/json"
+    },
+    "bodyFileName": "getFacturasBy3-OK.json"
+  }
+}
