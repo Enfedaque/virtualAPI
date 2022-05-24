@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "POST",
-    "url": "/Clientes"
+    "url": "/Empleados"
   },
   "response": {
     "status": 400,

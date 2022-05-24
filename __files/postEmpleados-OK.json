@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "nombre": "Juan",
+  "apellido": "Fernandez",
+  "email": "juan@gmail.es",
+  "telefono": "94589658",
+  "fechaNac": "23-01-1987",
+  "puesto": "Operario",
+  "departamento": "Ventas",
+  "salario": 1253.36,
+  "operariosAlCargo": 3,
+  "fechaComienzo": "25-09-2021",
+  "jefe detaller": false,
+  "dni": "48547963F"
+}

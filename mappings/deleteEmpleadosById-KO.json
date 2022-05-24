@@ -1,10 +1,10 @@
 {
   "request": {
-    "method": "POST",
-    "url": "/Clientes"
+    "method": "DELETE",
+    "url": "/Empleados/{id}"
   },
   "response": {
-    "status": 400,
+    "status": 404,
     "headers": {
       "Content-type": "application/json"
     },

@@ -1,13 +1,13 @@
 {
   "request": {
-    "method": "GET",
-    "url": "/Empleados"
+    "method": "DELETE",
+    "url": "/Clientes/{id}"
   },
   "response": {
     "status": 200,
     "headers": {
       "Content-type": "application/json"
     },
-    "bodyFileName": "getEmpleados-OK.json"
+    "bodyFileName": "deleteClienteById-OK.json"
   }
 }
