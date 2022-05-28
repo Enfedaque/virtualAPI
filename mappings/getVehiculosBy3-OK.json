@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/Vehiculos/{matricula}/{kilometros}/{antiguedad}"
+    "url": "/Vehiculos/3225JTR/145632/11"
   },
   "response": {
     "status": 200,

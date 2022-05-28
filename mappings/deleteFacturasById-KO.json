@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "DELETE",
-    "url": "/Facturas/{numFactura}"
+    "url": "/Facturas/23523"
   },
   "response": {
     "status": 404,

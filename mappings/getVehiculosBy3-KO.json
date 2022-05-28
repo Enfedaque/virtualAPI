@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/Vehiculos/{matricula}/{kilometros}/{antiguedad}"
+    "url": "/Vehiculos/1423LPL/10025/1"
   },
   "response": {
     "status": 404,
