@@ -8,6 +8,6 @@
     "headers": {
       "Content-type": "application/json"
     },
-    "bodyFileName": "getVehiculosById-OK.json"
+    "bodyFileName": "getVehiculoById-OK.json"
   }
 }

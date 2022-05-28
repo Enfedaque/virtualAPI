@@ -1,7 +1,7 @@
 {
   "request": {
-    "method": "DELETE",
-    "url": "/Empleados/2"
+    "method": "GET",
+    "url": "/Empleados/3"
   },
   "response": {
     "status": 500,

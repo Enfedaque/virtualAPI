@@ -8,6 +8,6 @@
     "headers": {
       "Content-type": "application/json"
     },
-    "bodyFileName": "getClienteBy3.json"
+    "bodyFileName": "getClienteBy3-OK.json"
   }
 }
