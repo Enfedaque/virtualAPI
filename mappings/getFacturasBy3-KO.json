@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/Facturas/{nombrePropietario}/{isEmpresa}/{precio}"
+    "url": "/Facturas/2w1/javier/254"
   },
   "response": {
     "status": 400,

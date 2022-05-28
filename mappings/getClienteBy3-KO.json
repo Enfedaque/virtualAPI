@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/Clientes/{particular}/{presupuesto}/{nombreEmpresa}"
+    "url": "/Clientes/true/false/soler"
   },
   "response": {
     "status": 400,

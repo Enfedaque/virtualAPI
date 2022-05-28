@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/Empleados/{puesto}/{departamento}/{salario}"
+    "url": "/Empleados/mecanico/taller/1200"
   },
   "response": {
     "status": 200,

@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "DELETE",
-    "url": "/Vehiculos/{id}"
+    "url": "/Vehiculos/w"
   },
   "response": {
     "status": 400,

@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/Facturas/{numFactura}"
+    "url": "/Facturas/ewv"
   },
   "response": {
     "status": 400,

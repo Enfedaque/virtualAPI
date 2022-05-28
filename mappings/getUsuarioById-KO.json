@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/Usuarios/{id}"
+    "url": "/Usuarios/34563"
   },
   "response": {
     "status": 404,

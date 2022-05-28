@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "url": "/Empleados/{puesto}/{departamento}/{salario}"
+    "url": "/Empleados/operario/ventas/2501"
   },
   "response": {
     "status": 404,

@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "DELETE",
-    "url": "/Empleados/{id}"
+    "url": "/Empleados/w"
   },
   "response": {
     "status": 404,
