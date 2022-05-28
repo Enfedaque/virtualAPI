@@ -8,6 +8,6 @@
     "headers": {
       "Content-type": "application/json"
     },
-    "bodyFileName": "getFacturaById-OK.json"
+    "bodyFileName": "getFacturasById-OK.json"
   }
 }

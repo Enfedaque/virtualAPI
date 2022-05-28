@@ -1,13 +1,13 @@
 {
   "request": {
-    "method": "DELETE",
-    "url": "/Clientes/3"
+    "method": "GET",
+    "url": "/Clientes"
   },
   "response": {
-    "status": 500,
+    "status": 200,
     "headers": {
       "Content-type": "application/json"
     },
-    "bodyFileName": "500-KO.json"
+    "bodyFileName": "getClientes-OK.json"
   }
 }

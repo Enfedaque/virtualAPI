@@ -8,6 +8,6 @@
     "headers": {
       "Content-type": "application/json"
     },
-    "bodyFileName": "getBy3-OK.json"
+    "bodyFileName": "getEmpleadoBy3-OK.json"
   }
 }
