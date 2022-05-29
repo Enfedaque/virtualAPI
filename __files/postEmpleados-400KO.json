@@ -1,0 +1,4 @@
+{
+  "Error": "400 Bad Request",
+  "Mensaje": "El campo 'apellidos' es obligatorio"
+}
